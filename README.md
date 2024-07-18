@@ -1,4 +1,4 @@
-# Drakkar-prompt AI
+# Prompt AI
 
 An Open source AI Generative web-based app, an unprecedented platform that harnesses the boundless potential of artificial intelligence to ignite your creative spark! From dynamic dialogues to spellbinding videos, captivating imagery, harmonious melodies, sophisticated code generation, and a host of other features, our app offers an expansive array of AI services tailored to amplify your creativity using OpenAI API and Replicate API LLM..
 
